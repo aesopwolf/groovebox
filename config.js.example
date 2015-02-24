@@ -1,0 +1,10 @@
+var config = module.exports = {
+  clientUsername: "",
+  clientPassword: "",
+  userEmail: "",
+  userPassword: "",
+  hipChatPassword: "",
+  hipChatUser: "",
+  hipChatRoom: "",
+  ngrokAuthToken: ""
+}
